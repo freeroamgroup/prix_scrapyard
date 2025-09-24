@@ -26,5 +26,6 @@ Add the following to `ox_inventory/data/items.lua`:
     close = true,         -- closes inventory menu after use
     description = "Pieces of metal obtained from scrapping vehicles."
 },
+```
 
 This item must exist in your ox_inventory for the script to work properly.
