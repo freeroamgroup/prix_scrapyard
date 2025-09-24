@@ -8,12 +8,14 @@ For full documentation, see: [prix_scrapyard Docs](https://prix.gitbook.io/resou
 
 ## Dependencies
 - [prix_core](https://freeroam.gitbook.io/main/framework/core) (required)  
-- [ox_lib](https://github.com/overextended/ox_lib)  
-- [oxmysql](https://github.com/overextended/oxmysql)  
+- [ox_lib](https://github.com/overextended/ox_lib)
+- [ox_inventory](https://github.com/overextended/ox_lib)
+- [oxmysql](https://github.com/overextended/oxmysql)
+- **Prix Framework (or ESX Framework)**
 
 ---
 
-## Ox Inventory Item
+## Inventory Item
 Add the following to `ox_inventory/data/items.lua`:
 
 ```lua
