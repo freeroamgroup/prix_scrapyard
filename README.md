@@ -2,7 +2,7 @@
 
 **prix_scrapyard** is a FiveM resource that allows players to scrap vehicles and receive metal scrap.  
 
-For full documentation, see: [prix_scrapyard Docs](https://prix.gitbook.io/resources/res/scrapyard)
+For full documentation, see: [docs](https://prix.gitbook.io/resources/res/scrapyard)
 
 ---
 
