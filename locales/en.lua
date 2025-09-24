@@ -1,0 +1,21 @@
+Locales = {
+    ['press_to_scrap'] = "Scrap the vehicle",
+    ['not_vehicle'] = "No suitable vehicle found nearby!",
+    ['must_exit_vehicle'] = "You must exit the vehicle first.",
+    ['cooldown'] = "You must wait before scrapping another vehicle!",
+    ['already_in_progress'] = "You are already scrapping another vehicle.",
+    ['anti_cheat_failed'] = "Check failed. Action canceled.",
+    ['scrap_gained'] = "You received %s metal scrap.",
+    ['scrap_gained_failed'] = "Failed to add scrap to inventory.",
+    ['progress_label'] = "Scrapping vehicle...",
+    ['scrap_canceled'] = "Scrapping has been canceled.",
+    ['no_permission'] = "You don't have permission for this action.",
+    -- individual stage notifications
+    ['scrap_stage_hood'] = "Scrapping vehicle (1/7)",
+    ['scrap_stage_trunk'] = "Scrapping vehicle (2/7)",
+    ['scrap_stage_front_doors'] = "Scrapping vehicle (3/7)",
+    ['scrap_stage_rear_doors'] = "Scrapping vehicle (4/7)",
+    ['scrap_stage_interior'] = "Scrapping vehicle (5/7)",
+    ['scrap_stage_engine'] = "Scrapping vehicle (6/7)",
+    ['scrap_stage_body'] = "Scrapping vehicle (7/7)",
+}
